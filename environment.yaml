@@ -194,4 +194,3 @@ dependencies:
   - zstd=1.5.5
   - pip:
       - xlrd==2.0.1
-prefix: /afs/crc.nd.edu/user/p/ptinsley/miniconda3/envs/AE_for_SBOM
